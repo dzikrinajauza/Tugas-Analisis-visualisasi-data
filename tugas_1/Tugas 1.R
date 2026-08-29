@@ -1,0 +1,48 @@
+# Nama = Dzikrina Jauza Hasna
+# Jurusan = Sistem Informasi
+# Mata Kuliah = Analisis dan Visualisasi Data
+
+
+data <- read.csv("Tabel_Tugas1.csv")
+print(data)
+
+# Soal No 1
+rata_kecepatan <- mean(data$Jarak..meter.)
+print(rata_kecepatan)
+
+rata_jarak <- mean(data$Jarak..meter.)
+print(rata_jarak)
+
+standar_deviasi_jarak <- sd(data$Jarak..meter.)
+print(standar_deviasi_jarak)
+
+# Soal No 2
+plot(data$Kecepatan..km.h., data$Jarak..meter.,
+     main= "Scatter Plot Kecepatan vs Jarak mobil",
+     xlab= "Kecepatan (km/h)",
+     ylab= "jarak Berhenti (m)",
+     pch= 19, col= "brown")
+
+hist(data$Kecepatan..km.h.,
+     main = "Histogram Kecepatan Mobil",
+     xlab = "Kecepatan (km/h)",
+     ylab = "Frekuensi",
+     col = "pink", border = "black")
+
+# Soal No 3
+# UJIAN NATEMATIKA
+rata2_Matematika <- 75
+standar_deviasi_Matematika <- 10
+
+# UJIAN BAHASA INGGRIS
+rata2_B_Inggris <- 70
+standar_deviasi_B_Inggris <- 8
+
+kk_Matematika <- (standar_deviasi_Matematika / rata2_Matematika) * 100
+kk_B_Inggris <- (standar_deviasi_B_Inggris / rata2_B_Inggris) * 100
+
+cat("Koefisien Keragaman Matematika = ", kk_Matematika, "%\n")
+cat("Koefisien Keragaman Bahasa Inggris = ", kk_B_Inggris, "%")
+
+
+
