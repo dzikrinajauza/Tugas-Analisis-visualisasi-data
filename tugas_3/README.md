@@ -5,7 +5,7 @@ Membuat aplikasi visualisasi data interaktif menggunakan Shiny yang memungkinkan
 1. Variabel yang ingin divisualisasikan
 2. Jenis plot: (a) scatter plot interaktif, (b) line plot interaktif, (c) bar plot interaktif, (d) tabel data
 
-Detail soal lengkap: [`laporan/soal_tutorial_3.pdf`](./laporan/soal_tutorial_3.pdf)
+Detail soal lengkap: https://bit.ly/4y9l8r1
 
 ## Isi Folder
 - `app.R` — source code aplikasi Shiny (UI + server logic)
