@@ -9,7 +9,7 @@ Detail soal lengkap: https://bit.ly/4y9l8r1
 
 ## Isi Folder
 - `app.R` — source code aplikasi Shiny (UI + server logic)
-- `laporan/laporan_tugas3.pdf` — laporan lengkap: latar belakang, landasan teori, source code, analisis output, dan kesimpulan
+- `tugas_3/data/Dzikrina Jauza Hasna 051313098 Sistem Informasi - Analisis dan Visualisasi Data(Semester 6-Tugas 3).pdf` — laporan lengkap: latar belakang, landasan teori, source code, analisis output, dan kesimpulan
 
 ## Cara Menjalankan
 ```r
