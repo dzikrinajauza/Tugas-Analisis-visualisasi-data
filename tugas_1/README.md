@@ -6,7 +6,7 @@ Menggunakan data kecepatan mobil dan jarak berhenti untuk:
 2. Membuat scatter plot (kecepatan vs jarak) dan histogram (kecepatan), lalu menginterpretasikannya.
 3. Menghitung koefisien keragaman nilai ujian Matematika dan Bahasa Inggris.
 
-Detail soal lengkap: [`tugas_1/data/Tugas Tutorial 1 STSI4204.pdf`](soal_tutorial_1.pdf)
+Detail soal lengkap: [`tugas_1/data/Tugas Tutorial 1 STSI4204.pdf`](.tugas_1/data/Tugas Tutorial 1 STSI4204.pdf)
 
 ## Isi Folder
 - `tugas1.R` — script R untuk seluruh perhitungan dan plot
