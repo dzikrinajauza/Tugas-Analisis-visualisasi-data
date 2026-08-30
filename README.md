@@ -6,7 +6,7 @@ Repositori ini berisi kumpulan tugas tutorial mata kuliah **Analisis dan Visuali
 
 | Folder | Topik | Deskripsi Singkat |
 |---|---|---|
-| [`tugas_1`](.tugas_1) | Statistika deskriptif & visualisasi dasar | Rata-rata, standar deviasi, scatter plot, histogram, koefisien keragaman |
+| [`tugas_1`](https://bit.ly/3UltYn7) | Statistika deskriptif & visualisasi dasar | Rata-rata, standar deviasi, scatter plot, histogram, koefisien keragaman |
 | [`tugas_2`](.tugas_2) | Regresi linear sederhana | Histogram distribusi, scatter plot hubungan variabel, regresi linear, uji homoskedastisitas, visualisasi garis regresi |
 | [`tugas_3`](./tugas_3) | Dashboard interaktif | Aplikasi visualisasi data cuaca interaktif menggunakan R Shiny (scatter, line, bar plot, dan tabel data interaktif) |
 
