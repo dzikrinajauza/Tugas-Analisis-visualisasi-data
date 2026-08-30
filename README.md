@@ -29,7 +29,7 @@ Setiap folder berisi:
 
 1. Clone repositori ini:
    ```bash
-   git clone https://github.com/<username>/tugas-analisis-visualisasi-data.git
+   git clone https://github.com/dzikrinajauza/Tugas-Analisis-visualisasi-data.git
    ```
 2. Buka file `.R` yang diinginkan di RStudio.
 3. Pastikan package yang dibutuhkan sudah terinstal (lihat bagian atas tiap script, atau jalankan `install.packages(...)`).
