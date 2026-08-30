@@ -2,10 +2,6 @@
 
 Repositori ini berisi kumpulan tugas tutorial mata kuliah **Analisis dan Visualisasi Data (STSI4204 / MSIM4310)** — Program Studi Sistem Informasi, Universitas Terbuka.
 
-**Nama:** Dzikrina Jauza Hasna
-**NIM:** 051313098
-**UT Daerah:** Jakarta
-
 ## Struktur Repositori
 
 | Folder | Topik | Deskripsi Singkat |
@@ -37,7 +33,7 @@ Setiap folder berisi:
    ```
 2. Buka file `.R` yang diinginkan di RStudio.
 3. Pastikan package yang dibutuhkan sudah terinstal (lihat bagian atas tiap script, atau jalankan `install.packages(...)`).
-4. Sesuaikan path dataset (`.csv` / `.xlsx`) dengan lokasi file di komputer Anda, karena dataset asli tidak disertakan dalam repo ini (lihat catatan di masing-masing folder).
+4. Sesuaikan path dataset (`.csv` / `.xlsx`) dengan lokasi file di komputer Anda.
 5. Untuk `tugas3-dashboard-shiny`, jalankan `app.R` lalu klik **Run App** di RStudio.
 
 ## Mata Kuliah
