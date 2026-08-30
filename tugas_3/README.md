@@ -25,5 +25,7 @@ Pastikan file dataset `DataSetTugas3.xlsx` berada di direktori yang sama dengan 
 - **Bar Plot Interaktif** — melihat distribusi/sebaran satu variabel (contoh: Sunshine)
 - **Tabel Data** — tabel interaktif dengan fitur pencarian dan pagination (menggunakan package DT)
 
+Link demo Dashboard : http://dzikrinajauza.shinyapps.io/tugas_3
+
 ## Package Utama
 `shiny`, `readxl`, `ggplot2`, `plotly`, `DT`
