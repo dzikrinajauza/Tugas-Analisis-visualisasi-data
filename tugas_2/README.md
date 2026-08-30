@@ -8,7 +8,7 @@ Melakukan regresi linear sederhana terhadap dataset kebahagiaan dan pendapatan, 
 4. Uji homoskedastisitas menggunakan `plot(model)`
 5. Visualisasi hasil regresi (titik data, garis regresi, persamaan garis, judul & label)
 
-Detail soal lengkap: [`laporan/soal_tutorial_2.pdf`](./laporan/soal_tutorial_2.pdf)
+Detail soal lengkap: https://bit.ly/4yb4U0K
 
 ## Isi Folder
 - `tugas2.R` — script R lengkap (ggplot2, dplyr, broom, ggpubr)
