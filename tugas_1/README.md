@@ -10,7 +10,7 @@ Detail soal lengkap: https://bit.ly/4xw0n9b
 
 ## Isi Folder
 - `tugas1.R` — script R untuk seluruh perhitungan dan plot
-- `laporan/laporan_tugas1.pdf` — laporan hasil kerja lengkap dengan output dan interpretasi
+- `tugas_1/data/Dzikrina Jauza Hasna 051313098 Sistem Informasi - Analisis dan Visualisasi Data(Semester 6-Sesi 3-Tugas 1).pdf` — laporan hasil kerja lengkap dengan output dan interpretasi
 
 ## Catatan Dataset
 Script membaca data dari `Tabel_Tugas1.csv` (kolom `Kecepatan..km.h.` dan `Jarak..meter.`). File CSV asli tidak disertakan; buat file tersebut sesuai tabel data pada soal, atau sesuaikan path pada baris `read.csv(...)`.
