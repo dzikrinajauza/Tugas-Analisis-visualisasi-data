@@ -39,3 +39,8 @@ Setiap folder berisi:
 ## Mata Kuliah
 
 Analisis dan Visualisasi Data — Universitas Terbuka, Program Studi Sistem Informasi, Fakultas Sains dan Teknologi.
+
+## 👤 Author
+
+[Dzikrina Jauza Hasna] Front-End | [dzikrinajauza@gmail.com] · 🔗 https://www.linkedin.com/in/dzikrinajauza/ ·
+
