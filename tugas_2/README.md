@@ -12,7 +12,7 @@ Detail soal lengkap: https://bit.ly/4yb4U0K
 
 ## Isi Folder
 - `tugas2.R` — script R lengkap (ggplot2, dplyr, broom, ggpubr)
-- `laporan/laporan_tugas2.pdf` — laporan hasil kerja lengkap dengan output dan interpretasi
+- `tugas_2/data/Dzikrina Jauza Hasna 051313098 Sistem Informasi - Analisis dan Visualisasi Data(Semester 6-Tugas 2).pdf` — laporan hasil kerja lengkap dengan output dan interpretasi
 
 ## Catatan Dataset
 Script membaca data dari `dataPendapatan.xlsx` (kolom `kebahagiaan` dan `pendapatan`, nilai pendapatan dikalikan 10.000 sesuai instruksi soal). File Excel asli tidak disertakan; sesuaikan path pada `read_excel(...)`.
